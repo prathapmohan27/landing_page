@@ -2,7 +2,7 @@
 
 # landing_page
 
-##learning outcomes
+#learning outcomes
   -flex
 
 
